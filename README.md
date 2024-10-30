@@ -2,6 +2,8 @@
 
 A web application built with Node.js, React, and Vite for seamless resource sharing. The backend is powered by Supabase for real-time database capabilities and user authentication.
 
+Preview link: https://resourcesharinghub.netlify.app/
+
 ## Table of Contents
 
 - [Features](#features)
